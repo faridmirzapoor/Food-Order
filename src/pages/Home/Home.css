@@ -1,0 +1,10 @@
+.home {
+    max-width: 1200px;
+    margin: 60px auto;
+}
+
+.loading {
+    display: flex;
+    justify-content: center;
+    color: white;
+  }
